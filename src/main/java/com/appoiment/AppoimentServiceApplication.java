@@ -1,4 +1,4 @@
-package com.ms_appoiment;
+package com.appoiment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
